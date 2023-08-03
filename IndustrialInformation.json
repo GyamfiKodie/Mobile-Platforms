@@ -1,0 +1,44 @@
+{"data":{
+"Construction":{"Galliford Try":{"lat":52.4032996,"lon":-1.5054272,"tel":01455222753},"BAM Construct UK":{"lat":51.755503,"lon":-0.427001,"tell":01142753865},
+"Wilmott Dixon":{"lat":51.9689371,"lon":-0.2682824,"tell":01462442200},"McPhilips":{"lat":52.721582,"lon":-39.3723235,"tel":01952670440},
+"Deeley Group":{"lat":52.403172,"lon":-1.54963,"tell":02476718718},"Robothams Architects":{"lat":52.2817675,"lon":-1.5903481,"tell":01926493843},
+"A.C.Lloyd Homes":{"lat":52.2739256,"lon":-1.5488401,"tell":01926421326},"Deeley Construction":{"lat":53.3640757,"lon":-6.2692669,"tell":53.3640757,-6.2692669},
+"Bromwich Hardy":{"lat":52.3638354,"lon":-1.4705039,"tell":02476308900},"Harrabin Construction Limited":{"lat":52.4077576,"lon":-1.4979719,"tell":02476258527}},
+"Manufacturing":{"Jaguar Land Rover":{"lat":52.3845209,"lon":-1.4933867,"tell":07741109639},"Meggitt PLC":{"lat":52.425577,"lon":-1.4064033,"tell":02476826900},
+"Geely London":{"lat":13.9441701,"lon":121.1301693,"tell":+639386736593},"Rolls-Royce Control Systems":{"lat":52.4652801,"lon":-1.72172,"tell":07741109639},
+"Harris Manufacturing":{"lat":52.6102449,"lon":-1.681552,"tell":01827285189},"Coventry Group Ltd":{"lat":52.4163242,"lon":-1.6099998,"tell":02476362886},
+"Autins Group PLC":{"lat":52.403267,"lon":-1.2472407,"tell":01788578300},"Leoni Wiring Systems UK":{"lat":53.0270684,"lon":-2.2435587,"tell":01782604200},
+"FANUC UK":{"lat":52.4325778,"lon":-1.4079582,"tell":02476053000},"Bystronic UK":{"lat":52.4563607,"lon":-1.4898847,"tell":08448485850}},
+"Oil and Gas":{"BP (British Petroleum)":{"lat":-26.7029426,"lon":27.69159,"tell":+27169335550},"Shell UK":{"lat":52.4170132,"lon":-1.4656361,"tell":02476444300},
+"ExxonMobil":{"lat":52.4070711,"lon":-1.527123,"tell":02476225031},"Chevron UK":{"lat":51.8824156,"lon":-1.1242181,"tell":02077193000},
+"Total UK":{"lat":51.6596851,"lon":-0.401122,"tell":07741109639},"ConocoPhilips UK":{"lat":51.515259,"lon":-0.0899395,"tell":02074086000},
+"Chrysaor Holdings Ltd":{"lat":51.4958442,"lon":-0.2189674,"tell":07741109639},"Premier Oil":{"lat":51.4958129,"lon":-0.1514361,"tell":02077301111},
+"EnQuest":{"lat":51.5087846,"lon":-0.1368746,"tell":02079254900},"Centrica Energy Upstream":{"lat":51.4856512,"lon":-0.6421529,"tell":01753494000}},
+"Mining":{"Rio Tinto":{"lat":51.5079529,"lon":-0.1399195,"tell":02077812000},"BHP":{"lat":51.4967841,"lon":-0.1464824,"tell":02078024000},"Anglo American":{
+"lat":51.5184316,"lon":-0.1089016,"tell":02079688888},"Glencore":{"lat":51.5078654,"lon"-0.1456483,"tell":07741109639},"Vendanta Resources":{"lat":51.5104432,"lon":-0.1495436},
+"UK Coal":{"lat":51.5220241,"lon"-0.2076427,"tell":02079071460},"Cornish Lithium":{"lat":50.4800996,"lon":-4.7098556,"tell":0120879779},"Wolf Minerals":{"lat":50.4174587,"lon":-4.1808141},
+"Sirius Minirals":{"lat":51.5184723,"lon"-0.1085844,"tell":07741109639},"Camborne School of Mines":{"lat":50.1711089,"lon":-5.1311383}},"Transportation and Logistics":{
+"DHL Supply Chain":{"lat":52.4523869,"lon":-1.5297595,"tell":07741109639},"UPS (United Parcel Service)":{"lat":52.4219153,"lon":-1.6164891,"tell":07741109639},
+"FedEx":{"lat":52.5819689,"lon":-1.6647866,"tell":0800100600},"CEVA Logistics":{"lat":52.5981674,"lon":-2.7811547,"tell":01827255400},"XPO Logistics":{"lat":52.3481769,"lon":-1.1537715,
+"tell":01788226600},"Tuffnells Parcels Express":{"lat":52.313709,"lon":-3.4054252,"tell":03308380404},"Palletforce":{"lat":52.8040762,"lon":-1.6683521,"tell":01283539392},
+"Maritime Transport Ltd":{"lat":52.8416791,"lon":-1.3036005,"tell":01332982599},"DPDgroup UK":{"lat":52.7579916,"lon":-1.9612948,"tell":01212750500},"CitySprint":{"lat":52.4156482,
+"lon":-1.9266887,"tell":01213597788}},"Healthcare":{"University Hospitals Coventry and Warwickshire NHS Trust":{"lat":52.4207465,"lon":-1.4395657,"tell":02476964000},
+"Coventry and Warwichshire Partnership NHS Trust":{"lat":52.4922993,"lon":-1.5647602,"tell":02476374434},"BMI The Meriden Hospital":{"lat":52.4231846,"lon":-1.4410922,"tell":02476647000},
+"The Coventry and Warwickshire Hospital":{"lat":52.4018593,"lon":-1.5091553,"tell":02476654321},"Dignity Health":{"lat":52.4018869,"lon":-1.5272282,"tell":03002000060},
+"City of Coventry Health Centre":{"lat":52.4146471,"lon":-1.5098881,"tell":03002000060},"Care UK":{"lat":52.4214342,"lon":-1.5106773,"tell":03333218307},"Boots":{"lat":52.407879,
+"lon":-1.5160778,"tell":02476226561},"Specsavers":{"lat":52.4084339,"lon":-1.5159877,"tell":02476633378},"Local GP Practices and Medical Clinics":{"lat":52.4084498,"lon":-1.5237393,
+"tell":02475261333}},"Chemical":{"Ricoh Chemicals":{"lat":40.4035368,"lon":-112.1002463,"tell":+18014266699},"Godiva Chemicals":{"lat":40.5895762,"lon":-112.5178608,"tell":+18015624960},
+"Warwick Chemicals":{"lat":53.3167862,"lon":-3.2683432,"tell":01745560651},"Coventry Chemicals":{"lat":52.4176185,"lon":-1.6076619,"tell":02476639739},"Proctors Chemicals":{
+"lat":53.778614,"lon":-4.5924217,"tell":01282508555},"ICL Coventry Chemicals":{"lat":53.3642736,"lon":-3.8603233,"tell":01375389000},"Albright & Wilson":{"lat":-31.9882024,"lon":115.9649809,
+"tell":+61893562277}},"Power and Energy":{"E.ON UK":{"lat":52.3886408,"lon":-1.5893377,"tell":02476192000},"National Grid":{"lat":52.3929099,"lon":-1.4803998,"tell":01926653400},
+"Western Power Distribution":{"lat":52.4550987,"lon":-1.2212936,"tell":08453034050},"ENGIE":{"lat":52.2836211,"lon":-2.5659432,"tell":01159664895},"ScottishPower":{"lat":55.7786703,
+"lon":-4.1069962,"tell":08000270072},"ABB":{"lat":53.8994787,"lon":-7.5166971,"tell":01785825050},"Schneider Electric":{"lat":52.3887418,"lon":-1.561768,"tell":03706088608}},"Agricultural":{
+"Coventry Agricultural Society":{"lat":52.388821,"lon":-1.6417708,"tell":02476692470},"Agriline Products Ltd":{"lat":52.2993005,"lon":-2.0781117,"tell":01527579111},
+"Farmcare Trading Ltd":{"lat":56.5101296,"lon":-2.7482674,"tell":01241852572},"Massey Bros":{"lat":53.2056167,"lon":-2.367728,"tell":01477536300},"The Farm Shop at Stoneleigh Park":{
+"lat":51.2901528,"lon":0.3797705,"tell":01732870002},"Warwickshire Agricultural College":{"lat":52.1938942,"lon":-1.558991,"tell":03004560047},"Local Farmers' Markets":{"lat":-32.1978713,
+"lon":115.859938,"tell":07741109639}},"Food Processing":{"Princes Limited":{"lat":53.4058107,"lon":-3.0004671,"tell":077411096},"Walkers Deli & Sausage":{"lat":52.6444764,
+"lon":-1.1209032,"tell":01162515533},"Kerry Foods":{"lat":52.3162729,"lon":-2.6022872,"tell":01584838600},"Wright Food Group":{"lat":53.0880561,"lon":-2.4278149,"tell":01270504300},
+"Coventry & Warwickshire Co-operative Society":{"lat":52.2538692,"lon":-1.3924061,"tell":01926812308},"Pipers Crisps":{"lat":53.2767953,"lon":-6.2204749,"tell":07741109639},
+"Kettleby Foods":{"lat":52.7549813,"lon":-0.9197018,"tell":01664502000}}
+}
+}
